@@ -1,6 +1,6 @@
 # Multimodal Fabric Composition Identification
 
-This repository contains experimental multimodal workflows for estimating fabric composition from textile images using large vision-language models.
+This repository contains experimental multimodal workflows for estimating fabric composition(in %) from textile images using large vision-language models.
 
 The project includes two main notebook implementations:
 
